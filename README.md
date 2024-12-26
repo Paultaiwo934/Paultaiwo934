@@ -5,6 +5,9 @@
 - <b>Tableau</b>
   - [Interactive Dashboard using Tableau](https://public.tableau.com/views/ExecutiveOverview_17351904447190/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+- <b>SQL</b>
+  - [Data Cleaning Project (Tolu and Charis)](https://github.com/Paultaiwo934/SQL_Projects)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
