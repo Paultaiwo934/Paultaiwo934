@@ -16,6 +16,7 @@
 
 - <b>Cisco Networking</b>
   - [Implementing Port Security](https://github.com/Paultaiwo934/Implementing-Port-Security)
+  - [Implementing VLAN and Trunking](https://github.com/Paultaiwo934/Implementing-VLANs-and-Trunking)
     
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
