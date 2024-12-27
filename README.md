@@ -14,6 +14,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
+- <b>Cisco Networking</b>
+  - [Data Cleaning Project (Tolu and Charis)](https://github.com/Paultaiwo934/SQL_Projects)
+    
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
