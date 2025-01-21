@@ -3,7 +3,7 @@
 <h2>📊 Business Analytics Projects:</h2>
 
 - <b>Tableau</b>
-  - [Interactive Dashboard using Tableau](https://public.tableau.com/views/ExecutiveOverview_17351904447190/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Executive Overview Interactive Dashboard using Tableau](https://github.com/Paultaiwo934/Executive-Overview-Interactive-Dashboard)
 
 - <b>SQL</b>
   - [Data Cleaning Project (Tolu and Charis)](https://github.com/Paultaiwo934/SQL_Projects)
