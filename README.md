@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/paultaiwo934">Business Analyst</a>, <br/> <a href="https://www.linkedin.com/in/pto3/">Cybersecurity Professional</a>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/paultaiwo934">Business Intelligence</a> and <br/> <a href="https://www.linkedin.com/in/pto3/">Cybersecurity Professional</a>
 
 <h2>📊 Business Analytics Projects:</h2>
 
