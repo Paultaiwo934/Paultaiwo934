@@ -5,12 +5,6 @@
 - <b>Tableau</b>
   - [Executive Overview Interactive Dashboard using Tableau](https://github.com/Paultaiwo934/Executive-Overview-Interactive-Dashboard)
 
-- <b>SQL</b>
-  - [Data Cleaning Project (Tolu and Charis)](https://github.com/Paultaiwo934/SQL_Projects)
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
@@ -18,8 +12,6 @@
   - [Implementing Port Security](https://github.com/Paultaiwo934/Implementing-Port-Security)
   - [Implementing VLAN and Trunking](https://github.com/Paultaiwo934/Implementing-VLANs-and-Trunking)
     
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 📑 Certifications</h2>
 
