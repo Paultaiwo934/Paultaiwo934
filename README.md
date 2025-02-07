@@ -11,6 +11,8 @@
 - <b>Cisco Networking</b>
   - [Implementing Port Security](https://github.com/Paultaiwo934/Implementing-Port-Security)
   - [Implementing VLAN and Trunking](https://github.com/Paultaiwo934/Implementing-VLANs-and-Trunking)
+  - [Configured Numbered Standard IPv4 ACLs](https://github.com/Paultaiwo934/Configured-Numbered-Standard-IPv4-ACLs)
+  - [Configured Named Standard IPv4 ACLs](https://github.com/Paultaiwo934/Configured-Named-Standard-IPv4-ACLs)
     
 
 <h2> 📑 Certifications</h2>
