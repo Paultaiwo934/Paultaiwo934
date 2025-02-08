@@ -4,6 +4,7 @@
 
 - <b>Tableau</b>
   - [Executive Overview Interactive Dashboard using Tableau](https://github.com/Paultaiwo934/Executive-Overview-Interactive-Dashboard)
+  - [Analysis of sales and cost data](https://github.com/Paultaiwo934/Analysis-of-sales-and-cost-data-for-a-global-bike-manufacturer)
 
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
