@@ -24,6 +24,7 @@
 - [Certified in Cybersecurity](https://www.credly.com/badges/6c9204d6-b592-4ab3-ab66-3529f9da6b59/linked_in_profile)
 - [Cisco CCNA](https://www.credly.com/badges/7b0f3799-5ec8-4bdc-8e15-2726102a73d3/linked_in_profile)
 - [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/83ccf6ee-1a04-49ff-a1da-b1ea1d14761d/public_url)
+- [AWS Educate Getting Started with Security](https://www.credly.com/badges/3ffcdbd7-fa47-464c-81d9-d2445bb6c1cb/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
