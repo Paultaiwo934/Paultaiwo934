@@ -9,6 +9,8 @@
 - <b>SQL</b>
   - [Portfolio Projects](https://github.com/Paultaiwo934/SQL-Projects)
 
+- <b>Python</b>
+  - [AI Chatbot](https://github.com/Paultaiwo934/Mgmt_chatbot)
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
