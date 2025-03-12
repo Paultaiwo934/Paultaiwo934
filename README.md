@@ -33,6 +33,7 @@
 - [AWS Educate Getting Started with Networking](https://www.credly.com/badges/b21c26aa-fb1f-4999-a23e-ebaf077c7470/public_url)
 - [AWS Educate Getting Started with Cloud Ops](https://www.credly.com/badges/e633d09e-d923-481d-a278-2a1373d32eda/public_url)
 - [AWS Educate Getting Started with Databases](https://www.credly.com/badges/f1d96887-2fe2-4119-9657-90d26c6737d0/public_url)
+- [Verified Vanta Admin](https://learning.vanta.com/certificate/5z6tQIlh1A)
 
 
 
