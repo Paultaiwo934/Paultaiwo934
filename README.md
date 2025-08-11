@@ -11,7 +11,7 @@
   - [Portfolio Projects](https://github.com/Paultaiwo934/SQL-Projects)
  
 - <b>Power BI</b>
-  - [Portfolio Projects](https://github.com/Paultaiwo934/SQL-Projects)
+  - [Portfolio Projects](https://github.com/Paultaiwo934/Year-End-Reporting-of-Awards-and-Grants-at-a-US-University/tree/main)
 
 - <b>Python</b>
   - [AI Chatbot](https://github.com/Paultaiwo934/Mgmt_chatbot)
