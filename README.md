@@ -7,9 +7,10 @@
   - [Analysis of sales and cost data](https://github.com/Paultaiwo934/Analysis-of-sales-and-cost-data-for-a-global-bike-manufacturer)
   - [UWG International Student Enrollment](https://github.com/Paultaiwo934/UWG-International-Student-Enrollment)
  
-
- 
 - <b>SQL</b>
+  - [Portfolio Projects](https://github.com/Paultaiwo934/SQL-Projects)
+ 
+- <b>Power BI</b>
   - [Portfolio Projects](https://github.com/Paultaiwo934/SQL-Projects)
 
 - <b>Python</b>
